@@ -6,7 +6,7 @@ I created a very simple API to find information on countries around the world. I
 
 ## More Information
 
-This API was created through the use of https://restcountries.com/v3.1/all
+This API was created through the use of https://restcountries.com
 
 This API offers CRUD functionality in finding, adding, updating, and deleting countries within the API
 
